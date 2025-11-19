@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jasa Ukir Pohon Unik 2025</title>
+  <meta name="description" content="Jasa ukir pohon unik 2025 – layanan seni mengukir pohon menjadi bentuk dekoratif dan estetik untuk taman, rumah, kafe, hingga ruang publik." />
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f7f7f7; }
+    header { background: #2e7d32; padding: 20px; text-align: center; color: white; }
+    .hero { padding: 40px 20px; text-align: center; }
+    .hero img { width: 300px; border-radius: 12px; margin-top: 20px; }
+    section { padding: 20px; max-width: 900px; margin: auto; background: white; margin-bottom: 20px; border-radius: 8px; }
+    h2 { color: #2e7d32; }
+    .contact { background: #e8f5e9; padding: 20px; border-radius: 8px; }
+    footer { background: #1b5e20; padding: 15px; color: white; text-align: center; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Jasa Ukir Pohon Unik 2025</h1>
+    <p>Seni Mengukir Pohon Menjadi Bentuk Menakjubkan</p>
+  </header>
+
+  <div class="hero">
+    <h2>Seni yang Menghidupkan Alam</h2>
+    <p>Spesialis ukir pohon menjadi bentuk unik, estetis, dan bernilai seni tinggi.</p>
+    <img src="https://images.unsplash.com/photo-1523978591478-c753949ff840" alt="Pohon Ukir Unik" />
+  </div>
+
+  <section>
+    <h2>Tentang Layanan Kami</h2>
+    <p>
+      Jasa Ukir Pohon Unik 2025 adalah layanan profesional yang berfokus pada seni ukir pohon, menciptakan karya estetis yang memadukan kreativitas manusia dan keindahan alam. Kami mengolah pohon dengan teknik ukir khusus sehingga menghasilkan bentuk yang artistik, seperti wajah manusia, karakter hewan, ornamen tradisional, hingga bentuk dekoratif modern.
+    </p>
+    <p>
+      Dengan pengalaman bertahun-tahun di bidang seni ukir organik, kami melayani berbagai kebutuhan seperti dekorasi taman rumah, kafe, restoran, penginapan, ruang publik, taman kota, hingga proyek seni berskala besar. Setiap ukiran dibuat dengan mempertimbangkan kesehatan pohon, teknik aman, dan hasil yang elegan.
+    </p>
+    <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40" style="width:100%; border-radius: 8px; margin-top: 15px;" alt="Contoh Ukiran Pohon" />
+  </section>
+
+  <section>
+    <h2>Jenis Ukiran yang Kami Sediakan</h2>
+    <ul>
+      <li>Ukiran wajah manusia pada batang pohon</li>
+      <li>Ukiran karakter hewan</li>
+      <li>Ukiran relief tradisional</li>
+      <li>Ukiran ornamen modern dan geometris</li>
+      <li>Ukiran untuk dekorasi taman dan kafe</li>
+      <li>Custom request sesuai keinginan</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Area Layanan</h2>
+    <p>Kami melayani area seluruh Indonesia dengan sistem booking dan penjadwalan.</p>
+  </section>
+
+  <section class="contact">
+    <h2>Kontak Kami</h2>
+    <p>Email: <strong>ukirpohonunik2025@gmail.com</strong></p>
+    <p>WhatsApp: <strong>+62 812-3456-7890</strong></p>
+    <p>Instagram: <strong>@ukirpohonunik2025</strong></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Jasa Ukir Pohon Unik • Semua Hak Dilindungi</p>
+  </footer>
+</body>
+</html>
